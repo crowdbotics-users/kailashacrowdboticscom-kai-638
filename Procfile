@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT kailashacrowdboticscom_kai_638.wsgi:application
